@@ -1,0 +1,32 @@
+body {
+    background-color: #3a4a58;
+    color: #8c8c8c;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 15px;
+    margin: 0;}
+table, td, th {border: 1px solid #aaa;}
+
+table {width: 100%;border-spacing: 0;}
+
+td {text-align: center;padding: 10px 15px; color: #8c8c8c}
+
+th {color: #333333;font-weight: 400;font-size: 1.2rem;padding-left: 15px;padding-right: 15px;}
+
+.tm-section-small {
+    max-width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;}
+
+
+.class-list-link {
+    color: white;
+    border-radius: 2px;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+    text-decoration: none;
+    transition: all 0.3s ease;}
+
